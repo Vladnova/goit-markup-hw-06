@@ -1,0 +1,14 @@
+:root {
+    --primary-font: 'Roboto', sans-serif;
+    --logo-font: 'Raleway', sans-serif;
+    --primary-white-color: #ffffff;
+    --secondary-white-color: #f4f4fd;
+    --primary-gray-color: #434455;
+    --customers-icon-color: #8e8f99;
+    --secondary-gray-color: #2e2f42;
+    --primary-blue-color: #4d5ae5;
+    --primary-accent-color: #404bbf;
+    --active-social-icon: #31d0aa;
+    --border-color-input-modal: rgba(46, 47, 66, 0.4);
+    --animation: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}

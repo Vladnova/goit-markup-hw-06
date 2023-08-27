@@ -1,0 +1,16 @@
+.wrap-doing {
+    display: none;
+}
+
+
+@media screen and (min-width: 1158px) {
+
+    .wrap-doing {
+        display: block;
+        padding-bottom: 120px;
+    }
+
+    .item-doing {
+        flex-basis: calc((100% - 3 * 16px) / 3);
+    }
+}
